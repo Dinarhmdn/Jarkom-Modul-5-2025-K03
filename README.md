@@ -9,3 +9,10 @@
 # VLSM
 <img width="1801" height="1161" alt="Untitled Diagram" src="https://github.com/user-attachments/assets/5da52a94-1267-4d5e-9b6f-49259d36d61e" />
 
+## Misi 1: Memetakan Medan Perang
+
+Lakukan Routing sesuai dengan pembagian
+1.di Osgiliath
+<img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/img/Screenshot%202025-12-03%20222737.png" />
+2.di
+
