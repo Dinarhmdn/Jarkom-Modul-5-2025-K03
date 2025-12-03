@@ -12,7 +12,15 @@
 ## Misi 1: Memetakan Medan Perang
 
 Lakukan Routing sesuai dengan pembagian
-1.di Osgiliath
 <img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/img/Screenshot%202025-12-03%20222737.png" />
-2.di
+<img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/Screenshot%202025-12-03%20223833.png" />
+<img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/Screenshot%202025-12-03%20224106.png" />
+<img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/Screenshot%202025-12-03%20224206.png" />
+<img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/Screenshot%202025-12-03%20224339.png" />
+<img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/Screenshot%202025-12-03%20224454.png" />
+<img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/Screenshot%202025-12-03%20224637.png" />
+<img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/Screenshot%202025-12-03%20224719.png" />
+
+
+
 
