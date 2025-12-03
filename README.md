@@ -58,6 +58,9 @@ di configurasi gilgalad usudah dhcp dan gilgalad sudah mendapatkan ip juga
 di Node gilgalad gunakan Nslookup untuk meliaht apakah DNS nya bekerja
 <img width="450" height="403" alt="Screenshot 2025-11-27 at 09 12 03" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/img/Screenshot%202025-12-03%20232706.png" />
 
+## Karena Vilya (DHCP) menyimpan data vital, pastikan tidak ada perangkat lain yang bisa melakukan PING ke Vilya. Namun, Vilya tetap leluasa dapat mengakses/ping ke seluruh perangkat lain.Agar lokasi pasukan tidak bocor, hanya Vilya yang dapat mengakses Narya (DNS).Gunakan nc (netcat) untuk memastikan akses port DNS (53) ini.##[Hapus aturan ini setelah pengujian agar internet lancar untuk install paket]
+
+
 
 
 
