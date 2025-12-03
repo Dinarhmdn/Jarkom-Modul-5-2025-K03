@@ -64,6 +64,8 @@ Namun, Vilya tetap leluasa dapat mengakses/ping ke seluruh perangkat lain.
 # Blokir ICMP Echo Request yang menuju Vilya
 iptables -A FORWARD -d 10.65.0.26 -p icmp --icmp-type echo-request -j DROP
 ```
+
+
 <img width="450" height="403" alt="Screenshot 2025-11-27 at 09 12 03" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/img/Screenshot%202025-12-03%20233848.png" />
 <img width="450" height="403" alt="Screenshot 2025-11-27 at 09 12 03" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/img/Screenshot%202025-12-03%20233927.png" />
 
@@ -80,9 +82,14 @@ iptables -A FORWARD -s $IP_VILYA -d $IP_NARYA -p tcp --dport 53 -j ACCEPT
 # 2. Blacklist: Blokir sisanya ke Narya (UDP/TCP 53)
 iptables -A FORWARD -d $IP_NARYA -p udp --dport 53 -j DROP
 iptables -A FORWARD -d $IP_NARYA -p tcp --dport 53 -j DROP
+
 ```
+
+
 <img width="450" height="403" alt="Screenshot 2025-11-27 at 09 12 03" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/img/Screenshot%202025-12-03%20234223.png" />
 <img width="450" height="403" alt="Screenshot 2025-11-27 at 09 12 03" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/img/Screenshot%202025-12-03%20234248.png" />
+
+
 ```
 1. Hapus Blokir UDP (Port 53)
 Bash
@@ -108,7 +115,12 @@ iptables -A FORWARD -d $IP_IRON -s 10.65.1.0/24 -m time --weekdays Sat,Sun -j AC
 # 2. Blokir sisanya (Atau yang akses di hari biasa)
 iptables -A FORWARD -d $IP_IRON -p tcp --dport 80 -j DRO
 ```
+
+
+
 <img width="450" height="403" alt="Screenshot 2025-11-27 at 09 12 03" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/img/Screenshot%202025-12-03%20234802.png" />
+
+
 ## Sembari menunggu, pasukan berlatih di server Palantir. Akses dibatasi berdasarkan ras:
 Faksi Elf (Gilgalad & Cirdan): Boleh akses jam 07.00 - 15.00.
 Faksi Manusia (Elendil & Isildur): Boleh akses jam 17.00 - 23.00.
