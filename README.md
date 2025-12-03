@@ -1,5 +1,3 @@
-<img width="1003" height="690" alt="image" src="https://github.com/user-attachments/assets/a15b49d0-412f-4c0f-bff4-cbedae4975c2" /># Jarkom-Modul-5-2025-K03
-
 # Subnet
 <img width="450" height="403" alt="Screenshot 2025-11-27 at 09 12 03" src="https://github.com/user-attachments/assets/cba8956e-4e0a-412c-b62e-0bffdb968378" />
 
