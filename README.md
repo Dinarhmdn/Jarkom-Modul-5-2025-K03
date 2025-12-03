@@ -26,10 +26,11 @@ ping IP AduinBanks Yng berada di ujung kanan ipnya 10.65.0.54
 <img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/img/Screenshot%202025-12-03%20225814.png">
 
 ## Misi 2: Menemukan Jejak Kegelapan (Security Rules)
-# Agar jaringan Aliansi bisa terhubung ke luar (Valinor/Internet), konfigurasi routing menggunakan iptables.
+### Agar jaringan Aliansi bisa terhubung ke luar (Valinor/Internet), konfigurasi routing menggunakan iptables.
  Syarat: Kalian TIDAK DIPERBOLEHKAN menggunakan target MASQUERADE. 
  mengunakan SNAT
-<img width="450" height="403" alt="Screenshot 2025-11-27 at 09 12 03" src=" https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/img/Screenshot%202025-12-03%20230316.png" />
+ 
+<img width="450" height="403" alt="Screenshot 2025-11-27 at 09 12 03" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/img/Screenshot%202025-12-03%20230316.png" />
 
 
 
