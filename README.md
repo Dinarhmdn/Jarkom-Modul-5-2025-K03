@@ -11,7 +11,7 @@
 
 ## Misi 1: Memetakan Medan Perang
 
-Lakukan Routing sesuai dengan pembagian
+### Lakukan Routing sesuai dengan pembagian
 <img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/img/Screenshot%202025-12-03%20222737.png" />
 <img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/Screenshot%202025-12-03%20223833.png" />
 <img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/Screenshot%202025-12-03%20224106.png" />
@@ -21,6 +21,9 @@ Lakukan Routing sesuai dengan pembagian
 <img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/Screenshot%202025-12-03%20224637.png" />
 <img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/Screenshot%202025-12-03%20224719.png" />
 
+### Lakukan tes
+ping IP AduinBanks Yng berada di ujung kanan ipnya 10.65.0.54
+<img width="889" height="389" alt="Screenshot 2025-11-27 at 09 11 44" src="https://github.com/Dinarhmdn/Jarkom-Modul-5-2025-K03/blob/main/img/Screenshot%202025-12-03%20225814.png">
 
 
 
